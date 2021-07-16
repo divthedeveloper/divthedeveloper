@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divthedeveloper
-- 👀 I’m interested in protecting people's data and partaking in projects involving such.
+- 👀 I’m interested in algorithms, AI, ML, and cybersecurity.
 - 🌱 I’m currently learning AI and machine learning.
-- 💞️ I’m looking to collaborate on projects regarding 
+- 💞️ I’m looking to collaborate on projects regarding ML.
 - 📫 How to reach me dibbrox-ta@yahoo.com
 
 <!---
