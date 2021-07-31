@@ -2,7 +2,7 @@
 - 👀 I’m interested in algorithms, AI, ML, and cybersecurity.
 - 🌱 I’m currently learning AI and machine learning.
 - 💞️ I’m looking to collaborate on projects regarding ML.
-- 📫 How to reach me dibbrox-ta@yahoo.com
+- 📫 How to reach me divthedeveloper@outlook.com
 
 <!---
 divthedeveloper/divthedeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
