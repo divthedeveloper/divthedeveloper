@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divthedeveloper
 - 👀 I’m interested in algorithms, AI, ML, and cybersecurity.
-- 🌱 I’m currently learning AI and machine learning.
+- 🌱 I’m currently learning AI, ML, and AWS.
 - 💞️ I’m looking to collaborate on projects regarding ML.
 - 📫 How to reach me divthedeveloper@outlook.com
 
